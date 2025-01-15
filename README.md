@@ -5,7 +5,7 @@ This repository contains a project that aims to forecast temperature based on pr
 The purpose of this project is to predict the future temperature based on the historical data provided. 
 
 ## Methodology
-In order to model the temperature and predict the temperature in celsius in teh future, I have implemented a two step methodology. First, some EDA needs to be performed on the available data. EDA is a very important part of any predicive task. It is important to look at the data that we have and figure out some basic statistics, correlations between variables, and pre-processing the data we have. Performing this data analysis gives a perspective in the kind of model we would have to build to be able to best model our target variables based on the available data.
+In order to model the temperature and predict the temperature in celsius in the future, I have implemented a two step methodology. First, some EDA needs to be performed on the available data. EDA is a very important part of any predicive task. It is important to look at the data that we have and figure out some basic statistics, correlations between variables, and pre-processing the data we have. Performing this data analysis gives a perspective in the kind of model we would have to build to be able to best model our target variables based on the available data.
 
 The next step is to build a model to predict the target variable based on the selected features from the EDA.
 
